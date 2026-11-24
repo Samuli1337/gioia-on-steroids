@@ -9,11 +9,11 @@ In Gioia-on-steroids (GOS), AI agents carry out the steps of the Gioia method (G
 
 Interviews and the study brief go in. AI agents extract 1st-order concepts with their supporting quotes, the quotes are checked against the transcripts, and similar concepts are merged (Figure 1). The concepts are then grouped into 2nd-order themes and aggregate dimensions (Figure 2). The run stops at checkpoints along the way, where the researcher can step in.
 
-![Figure 1: the pipeline for extracting 1st-order concepts, in three steps: initial processing, quality checks, and merging concepts and finalization](docs/figures/pipeline-1st-order.png)
+![Figure 1: the pipeline for extracting 1st-order concepts, in three steps: initial processing, quality checks, and merging concepts and finalization](docs/figures/pipeline-1st-order.svg)
 
-*Figure 1 · The pipeline for extracting 1st-order concepts. It builds on an earlier pipeline ([anonymized for review]); red marks the changes made since.*
+*Figure 1 · The pipeline for extracting 1st-order concepts. It builds on an earlier pipeline ([anonymized for review]).*
 
-![Figure 2: the pipeline for generating 2nd-order themes and aggregate dimensions, in three steps: building 2nd-order themes, concept integration, and aggregation and finalization](docs/figures/pipeline-2nd-order.png)
+![Figure 2: the pipeline for generating 2nd-order themes and aggregate dimensions, in three steps: building 2nd-order themes, concept integration, and aggregation and finalization](docs/figures/pipeline-2nd-order.svg)
 
 *Figure 2 · The pipeline for generating 2nd-order themes and aggregate dimensions, new in GOS.*
 
